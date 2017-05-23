@@ -20,8 +20,13 @@ day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
     <meta_data creator="JBCDroid" />
+	<random_header image="and" />
     <random_header image="bj" />
     <random_header image="jb" />
+	<random_header image="jm" />
+	<random_header image="j09" />
+	<random_header image="m96" />
+	<random_header image="rk" />
     <random_header image="viper1" />
     <random_header image="viper2" />
     <random_header image="viper3" />
