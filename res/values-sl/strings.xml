@@ -17,7 +17,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="browse_header">Заголовки</string>
-  <string name="custom_header_image_notice">Изображение для заголовка установлено</string>
-  <string name="header_creator_label">Автор\u003a</string>
+  <string name="browse_header">Glave</string>
+  <string name="custom_header_image_notice">Slika glave nastavljena</string>
+  <string name="header_creator_label">Avtor\u003a </string>
 </resources>
