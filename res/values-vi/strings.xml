@@ -16,4 +16,8 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+  <string name="browse_header">Tiêu đề</string>
+  <string name="custom_header_image_notice">Gói hình ảnh đầu mục</string>
+  <string name="header_creator_label">Creator\u003a </string>
+</resources>

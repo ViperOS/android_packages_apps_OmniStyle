@@ -18,6 +18,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
   <string name="browse_header">Cabeçalhos</string>
-  <string name="custom_header_image_notice">Pacote de imagens de cabeçalho</string>
+  <string name="custom_header_image_notice">Cabeçalho atualizado</string>
   <string name="header_creator_label">Autor\u003a </string>
 </resources>
