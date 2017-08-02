@@ -16,4 +16,8 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+  <string name="browse_header">سربرگ ها</string>
+  <string name="custom_header_image_notice">تنظیم کردن تصویر سربرگ</string>
+  <string name="header_creator_label">ایجاد کنندهu003a\ </string>
+</resources>

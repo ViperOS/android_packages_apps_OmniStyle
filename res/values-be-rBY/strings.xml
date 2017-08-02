@@ -17,7 +17,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="browse_header">Zaglavlja</string>
-  <string name="custom_header_image_notice">Postavljena slika zaglavlja</string>
-  <string name="header_creator_label">Autor\u003a </string>
+  <string name="browse_header">Загалоўкі</string>
+  <string name="custom_header_image_notice">Выява для загалоўка ўсталявана</string>
+  <string name="header_creator_label">Творца\u003a </string>
 </resources>
