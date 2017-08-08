@@ -16,8 +16,4 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources>
-  <string name="browse_header">ส่วนหัว</string>
-  <string name="custom_header_image_notice">ชุด หัวข้อรูปภาพ</string>
-  <string name="header_creator_label">Creator\u003a </string>
-</resources>
+<resources></resources>
